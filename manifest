@@ -7417,7 +7417,7 @@
         "label": "New Testament",
         "ranges": [
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/01", 
-          "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/02", 
+          "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/161", 
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/03",           
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/04" 
         ]
@@ -7433,14 +7433,7 @@
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/80"
         ]
       },
-      {
-        "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/02",
-        "@type": "sc:Range",
-        "label": "Acts of Apostles",
-        "ranges": [
-          "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/161" 
-        ]
-      },
+     
       {
         "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/03",
         "@type": "sc:Range",

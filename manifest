@@ -7409,7 +7409,7 @@
       "@type": "sc:Range",
       "label": "Table of Contents",
       "viewingHint": "top",
-      "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/00",
+      "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/0",
       "ranges": [
         "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/1",
         "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/7",

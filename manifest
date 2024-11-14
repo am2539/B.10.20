@@ -7415,7 +7415,7 @@
         "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/00",
         "@type": "sc:Range",
         "label": "New Testament",
-        "canvases": [
+        "ranges": [
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/01", 
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/02", 
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/03",           
@@ -7426,7 +7426,7 @@
         "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/01",
         "@type": "sc:Range",
         "label": "Gospels",
-        "canvases": [
+        "ranges": [
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/7",
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/35",
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/52",
@@ -7437,7 +7437,7 @@
         "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/02",
         "@type": "sc:Range",
         "label": "Acts of Apostles",
-        "canvases": [
+        "ranges": [
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/161" 
         ]
       },
@@ -7445,7 +7445,7 @@
         "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/03",
         "@type": "sc:Range",
         "label": "Epistles",
-        "canvases": [
+        "ranges": [
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/003",
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/004"
         ]
@@ -7454,7 +7454,7 @@
         "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/003",
         "@type": "sc:Range",
         "label": "Pauline Epistles",
-        "canvases": [
+        "ranges": [
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/101",
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/114",
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/124",
@@ -7474,7 +7474,7 @@
         "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/004",
         "@type": "sc:Range",
         "label": "General Epistles",
-        "canvases": [
+        "ranges": [
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/153",
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/189",
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/190",
@@ -7490,7 +7490,7 @@
         "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/04",
         "@type": "sc:Range",
         "label": "Prophecy",
-        "canvases": [
+        "ranges": [
           "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20/range/202" 
         ]
       },

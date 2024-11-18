@@ -35,6 +35,10 @@
       "value": "Given in 1671 by Dr Scattergood, formerly Chaplain. At the end of the book on f.271a in a hand which is meant to look old but is really of cent. xvi as I think is written: this manuscript was found in the chapple att latham and goven by earle henry to my grandfather who dyed June 9th 1308 buryed att vale royall. And then follows a stupid note that Thomas a Becket died in 1170, signed E. H. On f.271b the name SIR IOHN HARRINGTON, followed by some moral extracts. Then: Humfredus ffenne Couentr.and Liber Johis Trussell ex dono Thome Holcrafte militis Ao Sal. nre 1608."
     },
     {
+        "label": "Collation notes",
+        "value": "<p>(1) The book comprises two volumes. Volume 1: Kalendar; New Testament; Matters (f.1r-f.226v) Volume 2: Kalendar; Lectionary; Lessons & Epistles (f.227r-f.272r)</p><p>(2) Acts of Apostles does not follow the four Gospels, but instead is located within the General Epistles, after Hebrews, rather than immediately following the four Gospels.</p><p>(3) The final page of Revelation is located on f.225r, within the Matters section.</p><p>(4) In Matters, the entries are given in a slightly different order from the Books of the New Testament, as they appear in the manuscript. The order, from Matthew to Apocalypse, is f.219r, f.219v, f.221r, f.221v, f.222r, f.222v, f.223r, f.223v, f.224r, f.224v, f.218r, f.218v, f.226r, f.226v.</p>"
+    },
+    {
       "label": "For further information see the online catalogue via the link below:",
       "value": "<a href=\"https://mss-cat.trin.cam.ac.uk/Manuscript/B.10.20\">View Record</a>"
     }

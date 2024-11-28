@@ -1,8 +1,8 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20[2].json",
-  "label": "B.10.20[2]",
+  "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.10.20.json",
+  "label": "B.10.20",
   "description": "Double columns of 35 lines. In two good hands. Two volumes.",
   "thumbnail": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.10.20%2F001_B.10.20_title-f001r.jp2/full/,500/0/default.jpg",
   "metadata": [
